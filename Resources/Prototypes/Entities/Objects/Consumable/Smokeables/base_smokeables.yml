@@ -16,8 +16,6 @@
     price: 5
   - type: InjectableSolution
     solution: smokable
-  - type: TypingIndicatorClothing
-    proto: smokable
 
 # Base for all cigars and cigarettes.
 - type: entity
