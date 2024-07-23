@@ -16,6 +16,8 @@
     price: 5
   - type: InjectableSolution
     solution: smokable
+  - type: TypingIndicatorClothing
+    proto: lawyer
 
 # Base for all cigars and cigarettes.
 - type: entity
